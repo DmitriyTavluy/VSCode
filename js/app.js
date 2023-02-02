@@ -5,7 +5,9 @@ console.log(a / b);
 const addFive = (num) => {
 
    console.log(num + 5);
+
 }
 
 addFive(11)
+addFive(20)
 
